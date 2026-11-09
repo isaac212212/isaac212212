@@ -17,11 +17,12 @@
 <br />
 
 <!-- SOBRE MIM COM CAIXA FORMATADA -->
+```markdown
 ## 👨‍💻 Sobre Mim
 
-```text
-┌───[ isaac@developer ~ ]
-├── 🎓 Curso: Análise e Desenvolvimento de Sistemas (ADS)
-├── 🎯 Foco: Algoritmos, Estrutura de Dados e Desenvolvimento de Software
-├── 🛠️ Momento: Construindo os alicerces da minha carreira em TI
-└── 💡 Lógica: Problema ➔ Código ➔ Solução
+> 🚀 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)** em busca de transformar lógica em soluções reais.
+
+* 🎓 **Formação:** Graduação em Análise e Desenvolvimento de Sistemas
+* 🎯 **Foco Atual:** Dominar os fundamentos do desenvolvimento de software e boas práticas de código
+* 💡 **Mentalidade:** Aprendizado contínuo, consistência nos estudos e foco na resolução de problemas
+* ⚡ **Fora do código:** Entusiasta de tecnologia, jogos e inovação
