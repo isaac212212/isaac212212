@@ -20,9 +20,9 @@
 ```markdown
 ## 👨‍💻 Sobre Mim
 
-> 🚀 Estudante de Análise e Desenvolvimento de Sistemas (ADS)** em busca de transformar lógica em soluções reais.
+> 🚀 Estudante de Análise e Desenvolvimento de Sistemas (ADS) em busca de transformar lógica em soluções reais.
 
-* 🎓 *Formação:* Graduação em Análise e Desenvolvimento de Sistemas
-* 🎯 *Foco Atual:* Dominar os fundamentos do desenvolvimento de software e boas práticas de código
-* 💡 *Mentalidade:* Aprendizado contínuo, consistência nos estudos e foco na resolução de problemas
-* ⚡ *Fora do código:* Entusiasta de tecnologia, jogos e inovação
+* 🎓 Formação: Graduação em Análise e Desenvolvimento de Sistemas
+* 🎯 Foco Atual: Dominar os fundamentos do desenvolvimento de software e boas práticas de código
+* 💡 Mentalidade: Aprendizado contínuo, consistência nos estudos e foco na resolução de problemas
+* ⚡ Fora do código: Entusiasta de tecnologia, jogos e inovação
